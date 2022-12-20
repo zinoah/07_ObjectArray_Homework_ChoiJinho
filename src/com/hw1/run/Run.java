@@ -8,6 +8,7 @@ public class Run {
 
 	public static void main(String[] args) {
 		
+		
 		Employee[] emp = new Employee[3];
 		
 		//객체배열을 크기 3 으로 할당 한 뒤 3개의 생성자를 각각 이용하여 객체 생성 후 출력
