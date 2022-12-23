@@ -75,7 +75,9 @@ public class Run {
 		 
 		 System.out.printf("직원들의 연봉의 평균 : %d원", aver / emp.length);
 		 
-	
+	      
+		 
+		 
 	
 
 	
